@@ -116,7 +116,7 @@ This project implements a multi-threaded proxy server capable of handling multip
 1. Clone the repository:
 
     ```bash
-    $ git clone https://github.com/vanshajgupta37/Multithreaded-Proxy-Server
+    $ git clone https://github.com/swan019/Multithreaded-Proxy-Server
     ```
 
 2. Navigate to the project directory:
